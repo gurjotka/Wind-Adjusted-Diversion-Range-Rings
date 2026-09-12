@@ -1,0 +1,78 @@
+{
+  "waypoints": [
+    {
+      "lat": 29.99,
+      "lon": -90.26,
+      "eta": "2026-07-25T00:00:00Z",
+      "snapshot_used": "2026-07-25T00:00:00Z",
+      "covered": false,
+      "covering_icao": null
+    },
+    {
+      "lat": 35.0,
+      "lon": -70.0,
+      "eta": "2026-07-25T02:13:22Z",
+      "snapshot_used": "2026-07-25T00:00:00Z",
+      "covered": true,
+      "covering_icao": "CYQX"
+    },
+    {
+      "lat": 40.0,
+      "lon": -55.0,
+      "eta": "2026-07-25T03:50:05Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "CYQX"
+    },
+    {
+      "lat": 45.0,
+      "lon": -45.0,
+      "eta": "2026-07-25T04:56:51Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "CYQX"
+    },
+    {
+      "lat": 48.0,
+      "lon": -35.0,
+      "eta": "2026-07-25T05:53:09Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "CYQX"
+    },
+    {
+      "lat": 50.0,
+      "lon": -25.0,
+      "eta": "2026-07-25T06:44:35Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "CYQX"
+    },
+    {
+      "lat": 49.5,
+      "lon": -15.0,
+      "eta": "2026-07-25T07:33:11Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "BIKF"
+    },
+    {
+      "lat": 49.0,
+      "lon": -5.0,
+      "eta": "2026-07-25T08:22:17Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "BIKF"
+    },
+    {
+      "lat": 49.0097,
+      "lon": 2.5479,
+      "eta": "2026-07-25T08:59:26Z",
+      "snapshot_used": "2026-07-25T06:00:00Z",
+      "covered": true,
+      "covering_icao": "BIKF"
+    }
+  ],
+  "fully_covered": false,
+  "gap_count": 1
+}

@@ -1,5 +1,8 @@
 # Wind-Adjusted Diversion Range Rings
 
+**Live app:**[Open the deployed app]
+https://wind-adjusted-diversion-range-rings-uecy2app6qdtgebnjgurdmq.streamlit.app/
+
 ## What's here
 
 - `geo.py` — great-circle distance & destination-point math (no GIS library needed).
